@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "title": "Efektif - Smart Career Guidance",
+    "description": "AI-powered career guidance platform for students and counselors"
+  },
+  "landing": {
+    "heroSubtitle": "Discover your career path with artificial intelligence. Psychometric tests, career matching, and personalized guidance.",
+    "cta": "Get started for free",
+    "pricing": "View pricing"
+  },
+  "common": {
+    "loading": "Loading...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "search": "Search",
+    "noResults": "No results found",
+    "error": "An error occurred",
+    "success": "Operation successful"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "tests": "Tests",
+    "careers": "Careers",
+    "results": "Results",
+    "myTracks": "My Tracks",
+    "admission": "Admission",
+    "messaging": "Messages",
+    "profile": "Profile",
+    "settings": "Settings",
+    "logout": "Logout"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot your password?",
+    "loginButton": "Sign in",
+    "registerButton": "Sign up",
+    "orContinueWith": "Or continue with"
+  },
+  "dashboard": {
+    "welcome": "Welcome, {name}",
+    "journeyTitle": "Your career journey",
+    "testsCompleted": "{count} tests completed",
+    "nextStep": "Next step"
+  },
+  "tests": {
+    "riasec": "RIASEC Test",
+    "bigfive": "Big Five Test",
+    "values": "Values Test",
+    "riasecDesc": "Discover your professional interests across 6 dimensions",
+    "bigfiveDesc": "Explore your personality through 5 major traits",
+    "valuesDesc": "Identify your priority professional values",
+    "start": "Start",
+    "resume": "Resume",
+    "completed": "Completed",
+    "question": "Question {current} of {total}",
+    "submitTest": "Submit test"
+  }
+}

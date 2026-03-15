@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "title": "Efektif - Orientation professionnelle intelligente",
+    "description": "Plateforme d'orientation professionnelle alimentée par l'IA pour les étudiants et les conseillers"
+  },
+  "landing": {
+    "heroSubtitle": "Découvrez votre voie professionnelle grâce à l'intelligence artificielle. Tests psychométriques, matching de carrières et conseils personnalisés.",
+    "cta": "Commencer gratuitement",
+    "pricing": "Voir les tarifs"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "back": "Retour",
+    "next": "Suivant",
+    "previous": "Précédent",
+    "search": "Rechercher",
+    "noResults": "Aucun résultat",
+    "error": "Une erreur est survenue",
+    "success": "Opération réussie"
+  },
+  "nav": {
+    "dashboard": "Tableau de bord",
+    "tests": "Tests",
+    "careers": "Carrières",
+    "results": "Résultats",
+    "myTracks": "Mes pistes",
+    "admission": "Admission",
+    "messaging": "Messagerie",
+    "profile": "Profil",
+    "settings": "Paramètres",
+    "logout": "Déconnexion"
+  },
+  "auth": {
+    "login": "Connexion",
+    "register": "Inscription",
+    "email": "Email",
+    "password": "Mot de passe",
+    "forgotPassword": "Mot de passe oublié ?",
+    "loginButton": "Se connecter",
+    "registerButton": "S'inscrire",
+    "orContinueWith": "Ou continuer avec"
+  },
+  "dashboard": {
+    "welcome": "Bienvenue, {name}",
+    "journeyTitle": "Votre parcours d'orientation",
+    "testsCompleted": "{count} tests complétés",
+    "nextStep": "Prochaine étape"
+  },
+  "tests": {
+    "riasec": "Test RIASEC",
+    "bigfive": "Test Big Five",
+    "values": "Test de Valeurs",
+    "riasecDesc": "Découvrez vos intérêts professionnels à travers 6 dimensions",
+    "bigfiveDesc": "Explorez votre personnalité selon 5 grands traits",
+    "valuesDesc": "Identifiez vos valeurs professionnelles prioritaires",
+    "start": "Commencer",
+    "resume": "Reprendre",
+    "completed": "Terminé",
+    "question": "Question {current} sur {total}",
+    "submitTest": "Soumettre le test"
+  }
+}

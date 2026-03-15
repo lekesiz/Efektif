@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "title": "Efektif - Akıllı kariyer yönlendirme",
+    "description": "Öğrenciler ve danışmanlar için yapay zeka destekli kariyer yönlendirme platformu"
+  },
+  "landing": {
+    "heroSubtitle": "Yapay zeka ile kariyer yolunuzu keşfedin. Psikometrik testler, kariyer eşleştirme ve kişiselleştirilmiş rehberlik.",
+    "cta": "Ücretsiz başla",
+    "pricing": "Fiyatları gör"
+  },
+  "common": {
+    "loading": "Yükleniyor...",
+    "save": "Kaydet",
+    "cancel": "İptal",
+    "delete": "Sil",
+    "edit": "Düzenle",
+    "back": "Geri",
+    "next": "İleri",
+    "previous": "Önceki",
+    "search": "Ara",
+    "noResults": "Sonuç bulunamadı",
+    "error": "Bir hata oluştu",
+    "success": "İşlem başarılı"
+  },
+  "nav": {
+    "dashboard": "Panel",
+    "tests": "Testler",
+    "careers": "Kariyerler",
+    "results": "Sonuçlar",
+    "myTracks": "Kariyer Yollarım",
+    "admission": "Kabul",
+    "messaging": "Mesajlar",
+    "profile": "Profil",
+    "settings": "Ayarlar",
+    "logout": "Çıkış"
+  },
+  "auth": {
+    "login": "Giriş",
+    "register": "Kayıt Ol",
+    "email": "E-posta",
+    "password": "Şifre",
+    "forgotPassword": "Şifrenizi mi unuttunuz?",
+    "loginButton": "Giriş yap",
+    "registerButton": "Kayıt ol",
+    "orContinueWith": "Veya şununla devam et"
+  },
+  "dashboard": {
+    "welcome": "Hoş geldin, {name}",
+    "journeyTitle": "Kariyer yolculuğunuz",
+    "testsCompleted": "{count} test tamamlandı",
+    "nextStep": "Sonraki adım"
+  },
+  "tests": {
+    "riasec": "RIASEC Testi",
+    "bigfive": "Big Five Testi",
+    "values": "Değerler Testi",
+    "riasecDesc": "6 boyutta mesleki ilgi alanlarınızı keşfedin",
+    "bigfiveDesc": "5 temel özellik üzerinden kişiliğinizi keşfedin",
+    "valuesDesc": "Öncelikli mesleki değerlerinizi belirleyin",
+    "start": "Başla",
+    "resume": "Devam et",
+    "completed": "Tamamlandı",
+    "question": "Soru {current} / {total}",
+    "submitTest": "Testi gönder"
+  }
+}

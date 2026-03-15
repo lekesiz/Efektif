@@ -1,0 +1,20 @@
+{
+  "name": "@efektif/ai",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./index.ts",
+    "./prompts/*": "./prompts/*.ts",
+    "./sanitize": "./sanitize.ts",
+    "./models": "./models.ts"
+  },
+  "dependencies": {
+    "@efektif/shared": "workspace:*",
+    "@anthropic-ai/sdk": "^0.52.0"
+  },
+  "devDependencies": {
+    "@efektif/tsconfig": "workspace:*",
+    "typescript": "^5.9.3"
+  }
+}

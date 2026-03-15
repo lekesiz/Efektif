@@ -1,0 +1,30 @@
+{
+  "name": "@efektif/api",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "build": "esbuild src/index.ts --bundle --platform=node --outfile=dist/index.js --format=esm --packages=external",
+    "start": "node dist/index.js",
+    "check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@efektif/db": "workspace:*",
+    "@efektif/shared": "workspace:*",
+    "@efektif/ai": "workspace:*",
+    "@anthropic-ai/sdk": "^0.52.0",
+    "@upstash/ratelimit": "^2.0.5",
+    "@upstash/redis": "^1.36.0",
+    "hono": "^4.7.0",
+    "stripe": "^20.4.0",
+    "resend": "^6.9.3",
+    "zod": "^3.24.0"
+  },
+  "devDependencies": {
+    "@efektif/tsconfig": "workspace:*",
+    "esbuild": "^0.25.0",
+    "tsx": "^4.19.4",
+    "typescript": "^5.9.3"
+  }
+}
