@@ -33,7 +33,7 @@ export const conversations = pgTable(
   ],
 );
 
-// ─── Messages (AYRI TABLO - Reflektif'teki JSON array hatasını düzeltiyoruz) ─
+// ─── Messages ────────────────────────────────────────────
 export const messages = pgTable(
   "messages",
   {
