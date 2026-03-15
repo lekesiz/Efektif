@@ -12,11 +12,16 @@
     "./questions": "./src/questions/index.ts",
     "./career-matcher": "./src/career-matcher.ts"
   },
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
   "dependencies": {
     "zod": "^3.24.0"
   },
   "devDependencies": {
     "@efektif/tsconfig": "workspace:*",
-    "typescript": "^5.9.3"
+    "typescript": "^5.9.3",
+    "vitest": "^3.1.0"
   }
 }

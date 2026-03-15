@@ -9,12 +9,17 @@
     "./sanitize": "./sanitize.ts",
     "./models": "./models.ts"
   },
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
   "dependencies": {
     "@efektif/shared": "workspace:*",
     "@anthropic-ai/sdk": "^0.52.0"
   },
   "devDependencies": {
     "@efektif/tsconfig": "workspace:*",
-    "typescript": "^5.9.3"
+    "typescript": "^5.9.3",
+    "vitest": "^3.1.0"
   }
 }
