@@ -1,0 +1,21 @@
+{
+  "name": "@efektif/email",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./index.ts",
+    "./send": "./send.ts",
+    "./templates/welcome": "./templates/welcome.tsx",
+    "./templates/test-completed": "./templates/test-completed.tsx",
+    "./templates/diagnostic-ready": "./templates/diagnostic-ready.tsx"
+  },
+  "dependencies": {
+    "resend": "^4.0.0",
+    "@react-email/components": "^0.0.30"
+  },
+  "devDependencies": {
+    "@efektif/tsconfig": "workspace:*",
+    "typescript": "^5.9.3"
+  }
+}

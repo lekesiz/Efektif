@@ -1,0 +1,21 @@
+{
+  "name": "@efektif/pdf",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./index.ts",
+    "./templates/*": "./templates/*.tsx",
+    "./components/*": "./components/*.tsx"
+  },
+  "dependencies": {
+    "@react-pdf/renderer": "^4.3.0",
+    "@efektif/shared": "workspace:*",
+    "react": "^19.0.0"
+  },
+  "devDependencies": {
+    "@efektif/tsconfig": "workspace:*",
+    "@types/react": "^19.0.0",
+    "typescript": "^5.9.3"
+  }
+}
